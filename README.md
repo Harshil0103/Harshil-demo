@@ -1,4 +1,4 @@
 # Harshil-demo
 This is my first Git Repository.
 <br>
-Author - Harshil Patel
+Author - Harshil Patel (L.D.College of Engg)
